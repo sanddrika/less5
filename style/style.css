@@ -1,0 +1,39 @@
+.navwrapper{
+    width: 1440px;
+    height: 50px;
+    /* background: grey; */
+}
+.inline{
+    vertical-align: middle;
+    display: inline-block;
+   
+            /* ქრისტინას */
+        /*აქ სურათებსაც რომ მიენიჭა  inline-block პრობლემაა რამე?  */
+}
+.logo1{
+    margin-top: 18px;
+    margin-right: 92px;
+    margin-left: 20px;
+}
+.gogona{
+    /* margin-top: 11px; */
+   margin-left: 40px;
+    vertical-align: middle;
+}
+.text{
+    vertical-align: middle;
+    
+    
+}
+.nav-a-item{
+    /* color: #343638 */
+    /* mokled aq es ferebi cudad dajda da 
+    ubralod grey jobia */
+    color: grey;
+    margin: 0px 22px;
+}
+.chosen{
+    /* color: #2B2D2E; */
+    color: black
+   }
+   
