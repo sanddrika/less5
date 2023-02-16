@@ -1,13 +1,10 @@
 .navwrapper{
     width: 1440px;
     height: 50px;
-    /* background: grey; */
 }
 .inline{
     vertical-align: middle;
     display: inline-block;
-            /* ქრისტინას */
-        /*აქ სურათებსაც რომ მიენიჭა  inline-block პრობლემაა რამე?  */
 }
 .logo1{
     margin-top: 18px;
@@ -38,7 +35,7 @@
     margin: 0 auto;
     margin-top: 25px;
    }
-   .header1{
+   .header{
     font-family: 'Roboto', sans-serif;
     font-size: 24px;
    }
@@ -55,3 +52,35 @@
     margin-top: 66px;
     text-align: center;
    }
+.container2{
+    width: 1174px;
+    height: 960px;
+    margin: 0 auto;
+}
+.left-block{
+    display: inline-block;
+    margin-top: 40px;
+    vertical-align: top;
+    width: 760px;
+    height: 900px;
+}
+                /* ქრისტინას  */
+                /* აქ თუ შეიძლებოდა ისე რომ margin-top: 40px; მხოლოდ 
+                ერთისთვის დამეწერა და მერე vertical-align გამესწორებინა?
+                და კიდევ :) დავალებას კი ვაგვიანებ მაგრამ თუ დრო და ნერვები გექნება
+                vertical-align: top; ორივეს რო დაუკომენტარო და მეორე ბლოკი სადღაც
+                 ჯანდაბაში რატომ გარბის რომ მითხრა :) (shy emoticon).... */
+.right-block{
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 40px;
+    vertical-align: top;
+    width: 360px;
+    height: 900px;
+}
+.mbottom{
+    margin-bottom: 36px;
+}
+.lastclass{
+    margin-bottom: 102px;
+}
