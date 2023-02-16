@@ -6,7 +6,6 @@
 .inline{
     vertical-align: middle;
     display: inline-block;
-   
             /* ქრისტინას */
         /*აქ სურათებსაც რომ მიენიჭა  inline-block პრობლემაა რამე?  */
 }
@@ -16,14 +15,11 @@
     margin-left: 20px;
 }
 .gogona{
-    /* margin-top: 11px; */
    margin-left: 40px;
     vertical-align: middle;
 }
 .text{
-    vertical-align: middle;
-    
-    
+    vertical-align: middle;    
 }
 .nav-a-item{
     /* color: #343638 */
@@ -36,4 +32,26 @@
     /* color: #2B2D2E; */
     color: black
    }
-   
+   .container{
+    width: 1160px;
+    height: 410px;
+    margin: 0 auto;
+    margin-top: 25px;
+   }
+   .header1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+   }
+   .section1-main-div{
+    display: inline-block;
+    width: 360px;
+    height: 350px;
+    margin-top: 36px;
+   }
+   .div2{
+    margin:0 40px;
+   }
+   .descr{
+    margin-top: 66px;
+    text-align: center;
+   }
